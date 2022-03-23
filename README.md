@@ -1,4 +1,4 @@
-# garoa
+# Garoa
 
 
 ## Desenvolvedores
