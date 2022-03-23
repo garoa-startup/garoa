@@ -3,8 +3,9 @@
 
 ## Desenvolvedores
 
-- **Prince**
-- **Eduardo**
-- **Brendo**
-- **Luis**
 - **Augusto**
+- **Brendo**
+- **Eduardo**
+- **Luis**
+-  **Prince**
+
